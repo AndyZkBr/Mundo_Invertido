@@ -11,7 +11,7 @@ const firebaseConfig = {
   storageBucket: "mundo-invertido-798df.appspot.com",
   messagingSenderId: "519929557176",
   appId: "1:519929557176:web:2f60096d74b423ca24444d"
-};
+}
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig)
